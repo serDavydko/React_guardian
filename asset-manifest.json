@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/React_guardian/static/css/main.54bcb2e1.chunk.css",
+    "main.css": "/React_guardian/static/css/main.bf70c644.chunk.css",
     "main.js": "/React_guardian/static/js/main.997d1e88.chunk.js",
     "main.js.map": "/React_guardian/static/js/main.997d1e88.chunk.js.map",
     "runtime~main.js": "/React_guardian/static/js/runtime~main.42c35a68.js",
@@ -8,8 +8,8 @@
     "static/js/2.d5ed7b26.chunk.js": "/React_guardian/static/js/2.d5ed7b26.chunk.js",
     "static/js/2.d5ed7b26.chunk.js.map": "/React_guardian/static/js/2.d5ed7b26.chunk.js.map",
     "index.html": "/React_guardian/index.html",
-    "precache-manifest.6748f6cdf2abfa519333ece242737a4f.js": "/React_guardian/precache-manifest.6748f6cdf2abfa519333ece242737a4f.js",
+    "precache-manifest.cc8646ecbeef5b03a40b755e4b9ab56f.js": "/React_guardian/precache-manifest.cc8646ecbeef5b03a40b755e4b9ab56f.js",
     "service-worker.js": "/React_guardian/service-worker.js",
-    "static/css/main.54bcb2e1.chunk.css.map": "/React_guardian/static/css/main.54bcb2e1.chunk.css.map"
+    "static/css/main.bf70c644.chunk.css.map": "/React_guardian/static/css/main.bf70c644.chunk.css.map"
   }
 }
