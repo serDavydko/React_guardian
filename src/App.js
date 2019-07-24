@@ -1,6 +1,6 @@
 import React from 'react';
 
-const ADRESS = 'http://content.guardianapis.com/search?api-key=test';
+const ADRESS = 'https://content.guardianapis.com/search?api-key=test';
 
 const getData = async(link) => {
   const response = await fetch(link);
